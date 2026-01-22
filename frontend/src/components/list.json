@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "price":0,
+        "Category":"Free",
+        "image":"/images/image.jpg"
+
+    },
+
+    {
+        "id":2,
+        "name": "Comic Book",
+        "price":20,
+        "Category":"Entertainment",
+        "image":"/images/image.jpg"
+
+    },
+
+    {
+        "id":3,
+        "name": "Sports Book",
+        "price":40,
+        "Category":"Sports",
+        "image":"/images/image.jpg"
+
+    },
+    {
+        "id":4,
+        "name": "Music Book",
+        "price":50,
+        "Category":"Song",
+        "image":"/images/image.jpg"
+    },
+    {
+        "id":5,
+        "name": "Food Book",
+        "price":100,
+        "Category":"Food",
+        "image":"/images/image.jpg"
+
+    },
+    {
+    
+        "id":6,
+        "name": "Story Book",
+        "price":0,
+        "Category":"Free",
+        "image":"/images/image.jpg"
+   },
+    {
+    
+        "id":7,
+        "name": "Story Book",
+        "price":0,
+        "Category":"Free",
+        "image":"/images/image.jpg"
+    },{
+    
+        "id":8,
+        "name": "Story Book",
+        "price":0,
+        "Category":"Free",
+        "image":"/images/image.jpg"
+
+    },{
+    
+        "id":9,
+        "name": "Story Book",
+        "price":0,
+        "Category":"Free",
+        "image":"/images/image.jpg"
+
+    },
+    {
+    
+        "id":10,
+        "name": "Story Book",
+        "price":0,
+        "Category":"Free",
+        "image":"/images/image.jpg"
+    }
+]
